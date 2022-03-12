@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://bscscan.com/search?f=0&q=0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BIONIC ERA",
+  "SYMBOL": "BENFT",
+  "MAX_SUPPLY": 3333,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.com/invite/bioniceranft",
+  "SHOW_BACKGROUND": true
+}
